@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128216143085",
+    "project_id": "inkartfun",
+    "storage_bucket": "inkartfun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128216143085:android:bbf4d4209221b120f528e4",
+        "android_client_info": {
+          "package_name": "com.inkartfun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeIOWSXhTE5-1Q-mgRKgvA5s1Gwfvo7XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
